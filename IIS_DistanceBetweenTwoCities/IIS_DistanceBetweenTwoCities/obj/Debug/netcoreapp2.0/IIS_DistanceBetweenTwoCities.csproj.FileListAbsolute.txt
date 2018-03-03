@@ -1,0 +1,11 @@
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\bin\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.deps.json
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\bin\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.runtimeconfig.json
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\bin\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.runtimeconfig.dev.json
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\bin\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.dll
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\bin\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.pdb
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\obj\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.csprojResolveAssemblyReference.cache
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\obj\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.csproj.CoreCompileInputs.cache
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\obj\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.AssemblyInfoInputs.cache
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\obj\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.AssemblyInfo.cs
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\obj\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.dll
+C:\Users\RinoDuboković\source\repos\IIS_DistanceBetweenTwoCities\IIS_DistanceBetweenTwoCities\obj\Debug\netcoreapp2.0\IIS_DistanceBetweenTwoCities.pdb
